@@ -1,0 +1,3 @@
+greedy 
+optimization, ad hoc, min max, sorting
+locally optimum choice at each stage , and hope to achieve a global optimum
